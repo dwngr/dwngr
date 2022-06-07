@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dwngr
-- 👀 I’m interested in Data Analyst and Web Development
+- 👀 I’m interested in Data and Web Development
 - 🌱 I’m currently learning Flask
 - 📫 Text me on dewahendrawan99@gmail.com
 
